@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://climavita.pt/sitemap.xml
